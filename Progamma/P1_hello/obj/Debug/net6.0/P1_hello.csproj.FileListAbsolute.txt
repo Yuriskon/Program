@@ -1,0 +1,15 @@
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\bin\Debug\net6.0\P1_hello.exe
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\bin\Debug\net6.0\P1_hello.deps.json
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\bin\Debug\net6.0\P1_hello.runtimeconfig.json
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\bin\Debug\net6.0\P1_hello.dll
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\bin\Debug\net6.0\P1_hello.pdb
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\obj\Debug\net6.0\P1_hello.csproj.AssemblyReference.cache
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\obj\Debug\net6.0\P1_hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\obj\Debug\net6.0\P1_hello.AssemblyInfoInputs.cache
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\obj\Debug\net6.0\P1_hello.AssemblyInfo.cs
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\obj\Debug\net6.0\P1_hello.csproj.CoreCompileInputs.cache
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\obj\Debug\net6.0\P1_hello.dll
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\obj\Debug\net6.0\refint\P1_hello.dll
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\obj\Debug\net6.0\P1_hello.pdb
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\obj\Debug\net6.0\P1_hello.genruntimeconfig.cache
+C:\Users\mclar\OneDrive\Desktop\My first progamm\Progamma\P1_hello\obj\Debug\net6.0\ref\P1_hello.dll
